@@ -1,4 +1,4 @@
-Learning Docker with https://docker-hy.github.io/
+Sample project for Helsinki University DevOps with Docker course: https://docker-hy.github.io/
 
 ## Instructions:
 
